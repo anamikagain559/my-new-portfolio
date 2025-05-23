@@ -2,6 +2,13 @@ import darkSaasLandingPage from "@/assets/images/dark-saas-landing-page.png";
 import lightSaasLandingPage from "@/assets/images/light-saas-landing-page.png";
 import aiStartupLandingPage from "@/assets/images/ai-startup-landing-page.png";
 import Image from "next/image";
+
+
+// Portfolio projects data
+// This data can be fetched from an API or a database in a real-world application
+// For this example, we are using static data
+// You can replace this with your own data or fetch it from an API
+// The data structure is an array of objects, each representing a project
 const portfolioProjects = [
   {
     company: "Acme Corp",
