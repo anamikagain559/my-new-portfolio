@@ -1,4 +1,6 @@
-import {SectionHeader} from "@/components/SectionHeader"
+import SectionHeader from "@/components/SectionHeader";
+
+
 export const AboutSection = () => {
   return <div>
     <SectionHeader/>
