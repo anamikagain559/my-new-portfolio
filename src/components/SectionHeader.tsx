@@ -2,7 +2,10 @@ import React from 'react'
 
 const SectionHeader = () => {
   return (
-    <div>SectionHeader</div>
+    <div>
+      Section Header
+
+    </div>
   )
 }
 
